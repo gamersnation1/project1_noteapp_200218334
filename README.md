@@ -1,2 +1,2 @@
-# project1_200218334
- project 1 
+Note App, Porject 1 For Mobile Programming Dr, Shadi
+
